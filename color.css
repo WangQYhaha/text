@@ -55,14 +55,3 @@ h1#text1{
     margin-left: 50px;
 }
 
-h1#text2{
-    margin: 0px;padding: 5px;
-    top: 30px;
-    position: absolute;
-    font-size: 30px;
-    color: #FFFFFF;
-    margin-left: 150px;
-    z-index: 1;
-    filter: glow(color=#FF0000,strength=5);
-    text-shadow: 5px 5px 5px #FF0000;
-}
